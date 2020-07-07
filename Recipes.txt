@@ -5,9 +5,17 @@ Welcome to Avishek Kitchen
 Here is the menu for non veg:
 Chawal
 Dal
-Paneer
 Fried Rice
 Chicken
 Papad
 Chatni
 Hajmola
+
+Here is the menu for veg:
+Chawal
+Dal
+Paneer
+Fried rice
+Papad
+Chatni
+Hajmola 
